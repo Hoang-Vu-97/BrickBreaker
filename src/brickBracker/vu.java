@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
 public class vu extends JFrame {
-
+/*hghgh*/
 	private JPanel contentPane;
 
 	/**
