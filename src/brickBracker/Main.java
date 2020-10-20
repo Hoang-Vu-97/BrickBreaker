@@ -15,6 +15,6 @@ public class Main {
 		obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		obj.setLocationRelativeTo(null);
 		obj.add(gameplay);
-		
+		/*abvc*/
 	}
 }
